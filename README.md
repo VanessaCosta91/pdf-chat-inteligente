@@ -26,6 +26,7 @@ Os prints do processo e os arquivos PDF utilizados estão na pasta inputs.
 ---
 
 Este projeto ainda está em fase inicial e poderá receber melhorias futuras.
+
 ---
 
 ## Autora
